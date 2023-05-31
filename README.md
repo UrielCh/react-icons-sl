@@ -23,17 +23,25 @@ For a transparent usage:
 
 ## Direct import sample
 
-`import { SlActionRedo } from "https://deno.land/x/react_icons_sl@1.0.1/mod.ts"`
+```ts
+import { SlActionRedo } from "https://deno.land/x/react_icons_sl@1.0.1/mod.ts"
+```
 
 ## import_map import sample
 
-`import { SlActionRedo } from "react-icons/sl"`
+```ts
+import { SlActionRedo } from "react-icons/sl"
+```
 
 ## minimal import
 
-`import { SlActionRedo } from "react-icons/sl/SlActionRedo.ts"`
+```ts
+import { SlActionRedo } from "react-icons/sl/SlActionRedo.ts"
+```
 
-## minimal import default
+## minimal import using default export
 
-`import SlActionRedo from "react-icons/sl/SlActionRedo.ts"`
+```ts
+import SlActionRedo from "react-icons/sl/SlActionRedo.ts"
+```
 
