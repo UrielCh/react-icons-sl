@@ -42,5 +42,5 @@ import { SlActionRedo } from "react-icons/sl/SlActionRedo"
 or using default export
 
 ```ts
-import SlActionRedo from "react-icons/sl/SlActionRedo.ts"
+import SlActionRedo from "react-icons/sl/SlActionRedo"
 ```
